@@ -6,6 +6,10 @@ typedef struct no {
  struct no* prox;
 }fila;
 
+
+/// validado e pronto para enviar
+
+
 static fila* p;
 static fila* u;
 
